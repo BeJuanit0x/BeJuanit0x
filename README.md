@@ -10,7 +10,7 @@
 
 <p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bejuanit0x&show_icons=true&theme=dark)](https://github.com/bejuanit0x/github-readme-stats)</p>
 
-<p>&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bejuanit0x&layout=compact&show_icons=true&theme=dark)](https://github.com/bejuanit0x/github-readme-stats)</p>
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bejuanit0x&layout=compact&show_icons=true&theme=dark)](https://github.com/bejuanit0x/github-readme-stats)</p>
 
 $ git add . <br>
 $ git commit -m "@BeJuanitox, my pleasure" <br>
